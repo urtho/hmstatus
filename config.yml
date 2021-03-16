@@ -15,8 +15,8 @@ params:
     - name: Phone access
       description: Public Switched Telephony Network conferencing subsystem (AUDIO visits)
     - name: Helpdesk
-      description: Our company technical support phone line
-      link: +48 22 153 05 50
+      description: Our company technical support phone line +48 22 153 05 50
+      link: ""
     - name: Corporate website
       description: Our company public facing website
       link: https://hearme.pl
