@@ -22,7 +22,7 @@ params:
       link: https://hearme.pl
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
-  timezoneString: UTC
+  timezoneString: " UTC"
   logo: /images/uploads/hmlogosq128.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     hearme.pl' href='https://hearme.pl/'>HearMe</a> systems operations.<br
