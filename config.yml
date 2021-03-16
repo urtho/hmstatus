@@ -5,15 +5,21 @@ params:
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
   systems:
-    - name: Website
-      description: Our company public facing website
-      link: https://hearme.pl
-    - name: Helpdesk
-      description: Our company technical support phone line
-      link: +48 22 153 05 50
     - name: PWA Application
       description: Visit scheduling with integrated Chat / Video
       link: https://app.hearme.pl
+    - name: WebRTC Video subsystem
+      description: P2P Video Authorization API
+    - name: SMS notification
+      description: SMS notification subsystem (for therpists)
+    - name: Phone access
+      description: Public Switched Telephony Network conferencing subsystem (AUDIO visits)
+    - name: Helpdesk
+      description: Our company technical support phone line
+      link: +48 22 153 05 50
+    - name: Corporate website
+      description: Our company public facing website
+      link: https://hearme.pl
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: UTC
